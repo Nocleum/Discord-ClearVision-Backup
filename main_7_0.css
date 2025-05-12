@@ -18,7 +18,8 @@
     opacity: 0.66;
   }
 } /*! ClearVision v7.0.0 by ClearVision Team */
-/*.info__2debe::after {
+/*!
+.info__2debe::after {
   content: "ClearVision" " " "7.0.0";
   color: var(--text-muted);
   font-size: 12px;
