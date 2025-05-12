@@ -26,7 +26,7 @@
   font-weight: 400;
   font-family: var(--font-primary);
 }
-.visual-refresh:not(.platform-osx) .leading_c38106::before {
+/*.visual-refresh:not(.platform-osx) .leading_c38106::before {
   content: "ClearVision";
   position: static;
   margin-left: 10px;
@@ -46,7 +46,7 @@
   font-weight: 600;
   color: var(--text-muted);
   order: 3;
-} /*! ClearVision v7.0.0 by ClearVision Team */
+}*/ /*! ClearVision v7.0.0 by ClearVision Team */
 .button__201d5 {
   border-radius: 4px;
 }
